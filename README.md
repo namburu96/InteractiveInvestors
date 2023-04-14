@@ -3,7 +3,7 @@
 
 Checking all the header links available in the Interactive Investors website(https://www.ii.co.uk/).
 
-Done using Selenium with Python programming.
+Done using Selenium with Python programming in BDD(Behaviour Driven Development) style.
 
 
 
