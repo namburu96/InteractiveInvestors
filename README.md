@@ -36,7 +36,9 @@ Process:
     6. Select "current file".
     7. Click run.
     8. This will invoke the chrome browser and run the tests.
+    
 
+  Check Tests Demo.mp4 for a demo.
 
 
     
