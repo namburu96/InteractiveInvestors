@@ -38,7 +38,7 @@ Process:
     8. This will invoke the chrome browser and run the tests.
     
 
-  Check Tests Demo.mp4 for a demo.
+ Note: If you are facing any issues with the configuration there's a video (Tests_Demo.mp4) attached above. Please have a look.
 
 
     
